@@ -1,7 +1,7 @@
 # 🌍 Wanderlust – Full Stack Travel Listing Web App
 
 🚀 **Live Demo:**
-👉 [https://wanderlust-project-0d3i.onrender.com/](https://wanderlust-project-0d3i.onrender.com/)
+👉 [https://wanderlust-project-0d3i.onrender.com/listings](https://wanderlust-project-0d3i.onrender.com/listings)
 
 ---
 
